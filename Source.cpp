@@ -6,6 +6,7 @@ int main()
 {
 	cout << "Good Morning!" << endl;
 
+
 	system("pause");
 	return 0;
 }
